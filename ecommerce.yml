@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: changed-my-very-long-secret-key-hihiihi111444441515
+  secret: re-changed-my-very-long-secret-key-hihiihi111444441515
 
 gateway:
   ip: 192.168.0.23
